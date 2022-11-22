@@ -1,5 +1,5 @@
 ### Hi there zFlqw👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=print(%22%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E7%A7%8D%22);%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E7%A7%8D)](https://git.io/typing-svg)
+
 <!--
 **zFlqwovo/zFlqwovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
