@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src='https://count.getloli.com/get/@zFlqw?theme=moebooru' width="400px">
-<!--<img src="https://github-readme-stats.vercel.app/api?username=zFlqwovo&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="400px"/>-->
+<img src="https://github-readme-stats.vercel.app/api?username=zFlqwovo&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="400px"/>
   <img width="400px" src="./github-metrics.svg" />
 </p>
 
