@@ -1,3 +1,4 @@
+<div align="center">
   <h1>Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=f5a9b8&height=300&section=header&text=%E4%BD%A0%E5%A5%BD%20qwq&fontSize=36&fontColor=ffffff)
