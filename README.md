@@ -95,12 +95,15 @@
 
 ---
 
-### 📊 GitHub 指标 | GitHub Metrics
+<details>
+  <summary>📊 GitHub 指标 | GitHub Metrics</summary>
 
-<div align="center">
+  <div align="center">
 
-<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
+  <img src="./github-metrics.svg" alt="Metrics" width="100%"/>
 
-</div>
+  </div>
+
+</details>
 
 ---
