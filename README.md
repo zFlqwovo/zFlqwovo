@@ -1,21 +1,25 @@
 <div align="center">
+<!-- 标题区 -->
 <h1 align="center">✨ Hi there, I'm zFlqw! ✨</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3DF778BA%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DCode%2Bwith%2Bmusic%2B%25F0%259F%258E%25B6%3BExploration%2Bis%2Binfinite%2B%25F0%259F%258C%259F%3BWelcome%2Bto%2Bmy%2Bwonderland!%2B%25F0%259F%258C%25B8" alt="Typing SVG" /></a>
+<!-- 动态打字效果 (可选，如果不需要可以删掉这一行) -->
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3DF778BA%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DCode%2Bwith%2Bmusic%2B%25F0%259F%258E%25B6%3BExploration%2Bis%2Binfinite%2B%25F0%259F%258C%259F%3BWelcome%2Bto%2Bmy%2Bwonderland!%2B%25F0%259F%258C%25B8" alt="Typing SVG" /></a>
 <p align="center">
 <em>🌱 正在构建自己的数字小花园 | Coding for joy & curiosity</em>
 </p>
+<!-- 社交按钮区：使用更轻量化的 shields -->
 <p align="center">
 <a href="mailto:me@2719233.xyz">
-<img src="https://img.shields.io/badge/Email-Me-ffb6c1%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3DFF8EAE" alt="Email">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Me-ffb6c1%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3DFF8EAE" alt="Email">
 </a>
 <a href="https://space.bilibili.com/389353402" target="_blank">
-<img src="https://img.shields.io/badge/Bilibili-%E5%85%B3%E6%B3%A8%E6%88%91-fea0c9%3Fstyle%3Dflat-square%26logo%3Dbilibili%26logoColor%3Dwhite%26labelColor%3DFB7299" alt="Bilibili">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bilibili-%E5%85%B3%E6%B3%A8%E6%88%91-fea0c9%3Fstyle%3Dflat-square%26logo%3Dbilibili%26logoColor%3Dwhite%26labelColor%3DFB7299" alt="Bilibili">
 </a>
 <a href="https://github.com/zFlqwovo" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-zFlqwovo-333%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-zFlqwovo-333%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
 </a>
 </p>
 </div>
+<!-- 个人简介：使用表格布局或简单的居中列表，这里用居中列表显得更轻快 -->
 <h3 align="center">🌸 关于我 | About Me</h3>
 <p align="center">
 👩‍💻 <strong>Tech Enthusiast</strong>
@@ -27,17 +31,20 @@
 <p align="center">
 🎮 <strong>Gamer & Dreamer</strong>
 
-<b>Minecraft</b> & <b>星穹铁道</b>
+<b>Minecraft</b> 建筑师 & <b>星穹铁道</b> 开拓者。
 
+沉迷<b>音游</b>，指尖跳动的节奏是我解压的最佳方式。
+</p>
 <p align="center">
 🎧 <strong>Quiet Soul</strong>
 
-有点<b>社恐</b>，不太擅长应对热闹的场合。
+有些轻微的<b>社恐</b>，不太擅长应对热闹的场合。
 
 更喜欢戴上耳机，沉浸在代码与音乐交织的世界里。
 
 <i>(如果不回消息可能是在发呆，请多包涵~ 💫)</i>
 </p>
+<!-- 技术栈：分类整理，颜色调整为更柔和的风格 -->
 <h3 align="center">🎨 技能与工具 | Toolbox</h3>
 <div align="center">
 <!-- 语言 & 核心 -->
@@ -66,6 +73,7 @@
 
 
 
+<!-- 折叠的详细数据，保持页面简洁 -->
 <details>
 <summary>✨ 点击查看 GitHub 详细数据 / Click for Metrics</summary>
 
@@ -76,3 +84,4 @@
 <small>Made with 💖 by zFlqw</small>
 </p>
 </div>
+
