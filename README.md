@@ -69,8 +69,8 @@ guest@zFlqw-lab:~$ ls -la ~/contacts/
 
 | Permission | Link | Description |
 | :--- | :--- | :--- |
-| `-rw-r--r--` | [Email](mailto:me@2719233.xyz) | `Send mail to me@2719233.xyz` |
-| `-rwxr-xr-x` | [Bilibili](https://space.bilibili.com/389353402) | `Run Bilibili.exe` |
+| `-rw-r--r--` | [Email](mailto:me@2719233.xyz) | `Send mail` |
+| `-rwxr-xr-x` | [Bilibili](https://space.bilibili.com/389353402) | `Run Bilibili` |
 | `-rwxr-xr-x` | [GitHub](https://github.com/zFlqwovo) | `git clone zFlqwovo` |
 
 <br>
