@@ -1,62 +1,63 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=6FA7A0&center=true&pause=100000&lines=Hi,+I'm+zFlqw.+Developer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=6FA7A0&center=true&vCenter=true&width=780&pause=100000&lines=Self-taught+since+2006+%7C+Linux+enthusiast." alt="Current Role"/>
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>Always tinkering with something. Feel free to reach out.</strong>
-  </p>
-  <p>
-    <code>🌱 Born 2006</code>
-    <code>📍 localhost / Remote</code>
-  </p>
-</div>
+# Hi, I'm zFlqw 👋
 
-- I love exploring new things. I love VS Code. TvT
-- Happy to contribute for free to fun projects & ideas, feel free to email me.
-- If you're interested in what I'm tinkering with, welcome to join me.
+**Developer** · Linux enthusiast · Always tinkering.
 
-### Links
+`🌱 Born 2006` &nbsp; `📍 localhost / Remote`
+
+---
+
+## About
+
+- 🤔 I love exploring new things. I love VS Code. TvT
+- 🤝 Happy to contribute **for free** to fun projects & ideas. Email me anytime.
+- 💬 Curious about what I'm tinkering with? Welcome to join me.
+
+## Links
 
 <p>
   <a href="mailto:me@2719233.xyz">
     <img src="https://img.shields.io/badge/Email-me%402719233.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
+  &nbsp;
   <a href="https://x.com/zFlqw2719">
     <img src="https://img.shields.io/badge/X-zFlqw2719-000000?style=flat-square&logo=x&logoColor=white" alt="x"/>
   </a>
+  &nbsp;
   <a href="https://github.com/zFlqwovo">
     <img src="https://img.shields.io/badge/GitHub-zFlqwovo-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
 
-### Skills & Stack
+## Skills & Stack
 
-**可理解语言** （`?了解`，`~熟悉`，`+掌握`，`++熟练`，`*精通`）
+> **Proficiency** &nbsp; `? Aware` &nbsp; `~ Familiar` &nbsp; `+ Competent` &nbsp; `++ Proficient` &nbsp; `* Expert`
 
-* **Languages**: Markdown (`++`), Python (`+`), Shell (`+`), HTML5/CSS3 (`~`)
-* **System & Infra**: Debian/Ubuntu (`+`), Docker (`+`), Proxmox (`~`), Network (`~`)
-* **Hardware**: ESP32 (`?`)
-* **Tools**: VS Code, Vim, JetBrains, Arduino, Thonny
+| Category | Stack |
+|:--|:--|
+| **Languages** | Markdown `++` · Python `+` · Shell `+` · HTML5/CSS3 `~` |
+| **System & Infra** | Debian/Ubuntu `+` · Docker `+` · Proxmox `~` · Network `~` |
+| **Hardware** | ESP32 `?` |
+| **Tools** | VS Code · Vim · JetBrains · Arduino · Thonny |
 
-**Soft Skills**
+### Soft Skills
 
-熟练掌握以下渠道的复制粘贴：
-* Google Search
-* GitHub
-* Stack Overflow
-* AI Agent
-* AI Chat
+> Proficient in copy-pasting from the following sources:  
+> `Google Search` &nbsp; `GitHub` &nbsp; `Stack Overflow` &nbsp; `AI Agent` &nbsp; `AI Chat`
 
-<!-- ### About Me -->
-
+---
 
 <div align="center">
-  <br>
-  <img src="https://count.getloli.com/get/@zFlqw?theme=rule34" alt="Visitor Count"/>
-  <!-- <br><br>
-  <img src="./github-metrics.svg" alt="Metrics" width="100%"/> -->
-</div>
 
-> "Attempt to achieve any sustainable behavior through automated means."
->
-> "Bye! Have a nice day."
+<img src="https://github-readme-stats.vercel.app/api?username=zFlqwovo&show_icons=true&hide_border=true&bg_color=00000000&icon_color=6FA7A0&title_color=6FA7A0&text_color=888888" height="148" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFlqwovo&layout=compact&hide_border=true&bg_color=00000000&title_color=6FA7A0&text_color=888888" height="148" alt="Top Langs"/>
+
+<br><br>
+
+<img src="https://count.getloli.com/get/@zFlqw?theme=rule34" alt="Visitor Count"/>
+
+<br><br>
+
+<sub>Bye! Have a nice day. 👋</sub>
+
+</div>
