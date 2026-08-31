@@ -15,8 +15,8 @@
 ## Links
 
 <p>
-  <a href="mailto:me@2719233.xyz">
-    <img src="https://img.shields.io/badge/Email-me%402719233.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  <a href="mailto:me&#64;2719233&#46;xyz">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   &nbsp;
   <a href="https://x.com/zFlqw2719">
